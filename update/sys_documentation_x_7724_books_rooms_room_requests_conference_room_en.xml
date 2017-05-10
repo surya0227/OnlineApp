@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="conference_room" label="Conference Room" language="en" table="x_7724_books_rooms_room_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>conference_room</element>
+            <help/>
+            <hint/>
+            <label>Conference Room</label>
+            <language>en</language>
+            <name>x_7724_books_rooms_room_requests</name>
+            <plural>Conference Rooms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>surya</sys_created_by>
+            <sys_created_on>2015-12-12 10:06:53</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1a227a514fd0560023bf3879b110c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Conference Room</sys_name>
+            <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+            <sys_update_name>sys_documentation_x_7724_books_rooms_room_requests_conference_room_en</sys_update_name>
+            <sys_updated_by>surya</sys_updated_by>
+            <sys_updated_on>2015-12-12 10:06:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

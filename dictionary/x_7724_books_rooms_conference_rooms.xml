@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=location;capacity,ref_ac_columns_search=true" extends="cmdb_ci" label="Conference Rooms" max_length="40" name="x_7724_books_rooms_conference_rooms" type="collection">
+        <element label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element label="Floor" max_length="40" name="floor" type="integer"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Polycom" max_length="40" name="polycom" type="boolean"/>
+        <element label="Projector" max_length="40" name="projector" type="boolean"/>
+        <element label="WiFi" max_length="40" name="wifi" type="boolean"/>
+    </element>
+</database>

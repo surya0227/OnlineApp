@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:26:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>63d822dd4f90560023bf3879b110c73e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7724_books_rooms_conference_rooms.x_7724_books_rooms.user</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_security_acl display_value="x_7724_books_rooms_conference_rooms">a7d822dd4f90560023bf3879b110c73d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_63d822dd4f90560023bf3879b110c73e</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 09:26:17</sys_updated_on>
+        <sys_user_role display_value="x_7724_books_rooms.user" name="x_7724_books_rooms.user">95b42a5d4f90560023bf3879b110c7e7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

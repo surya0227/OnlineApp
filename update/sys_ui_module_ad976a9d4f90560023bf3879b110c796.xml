@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Books Rooms">82b46a5d4f90560023bf3879b110c712</application>
+        <filter/>
+        <name>Room Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_7724_books_rooms.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:20:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad976a9d4f90560023bf3879b110c796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Room Requests</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_update_name>sys_ui_module_ad976a9d4f90560023bf3879b110c796</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 09:20:40</sys_updated_on>
+        <table>x_7724_books_rooms_room_requests</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

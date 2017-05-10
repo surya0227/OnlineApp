@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>cmdb_ci</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>true</display_override>
+        <element>name</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_7724_books_rooms_conference_rooms</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:41:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>851ce2114fd0560023bf3879b110c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_update_name>sys_dictionary_override_851ce2114fd0560023bf3879b110c75b</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 09:41:08</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

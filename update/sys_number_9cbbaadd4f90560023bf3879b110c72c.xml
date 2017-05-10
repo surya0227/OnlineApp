@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_7724_books_rooms_conference_rooms">x_7724_books_rooms_conference_rooms</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ROOM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:38:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9cbbaadd4f90560023bf3879b110c72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ROOM</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_update_name>sys_number_9cbbaadd4f90560023bf3879b110c72c</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 09:38:37</sys_updated_on>
+    </sys_number>
+</record_update>

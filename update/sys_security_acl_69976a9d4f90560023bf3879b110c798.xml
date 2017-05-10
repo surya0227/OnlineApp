@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_7724_books_rooms_room_requests</description>
+        <name>x_7724_books_rooms_room_requests</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:20:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>69976a9d4f90560023bf3879b110c798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7724_books_rooms_room_requests</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_update_name>sys_security_acl_69976a9d4f90560023bf3879b110c798</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 09:20:40</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

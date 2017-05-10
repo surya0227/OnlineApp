@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Room Requests" max_length="40" name="x_7724_books_rooms_room_requests" type="collection">
+        <element label="Attendees" max_length="40" name="attendees" type="integer"/>
+        <element label="Conference Room" max_length="32" name="conference_room" reference="x_7724_books_rooms_conference_rooms" type="reference"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="conference_room"/>
+        </index>
+        <index name="index2">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

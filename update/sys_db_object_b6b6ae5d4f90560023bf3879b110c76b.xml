@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Room Requests</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_7724_books_rooms_room_requests</name>
+        <number_ref display_value="RRM">9197fe914fd0560023bf3879b110c7fe</number_ref>
+        <provider_class/>
+        <read_access>false</read_access>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>surya</sys_created_by>
+        <sys_created_on>2015-12-12 09:20:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b6b6ae5d4f90560023bf3879b110c76b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Room Requests</sys_name>
+        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_update_name>sys_db_object_b6b6ae5d4f90560023bf3879b110c76b</sys_update_name>
+        <sys_updated_by>surya</sys_updated_by>
+        <sys_updated_on>2015-12-12 11:45:05</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_7724_books_rooms.user" name="x_7724_books_rooms.user">95b42a5d4f90560023bf3879b110c7e7</user_role>
+        <ws_access>false</ws_access>
+    </sys_db_object>
+</record_update>
