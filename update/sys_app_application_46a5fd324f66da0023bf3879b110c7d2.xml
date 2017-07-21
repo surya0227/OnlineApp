@@ -8,7 +8,7 @@
         <hint/>
         <name>Book rooms admin</name>
         <order>100</order>
-        <roles/>
+        <roles>x_7724_books_rooms.user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>surya</sys_created_by>
         <sys_created_on>2016-04-06 17:54:57</sys_created_on>
@@ -16,16 +16,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>46a5fd324f66da0023bf3879b110c7d2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Book rooms admin</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_package display_value="Book Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_scope display_value="Book Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
         <sys_update_name>sys_app_application_46a5fd324f66da0023bf3879b110c7d2</sys_update_name>
-        <sys_updated_by>surya</sys_updated_by>
-        <sys_updated_on>2016-04-06 17:56:15</sys_updated_on>
+        <sys_updated_by>surya.nair</sys_updated_by>
+        <sys_updated_on>2017-05-12 08:12:40</sys_updated_on>
         <title>Book rooms admin</title>
         <view_name/>
     </sys_app_application>

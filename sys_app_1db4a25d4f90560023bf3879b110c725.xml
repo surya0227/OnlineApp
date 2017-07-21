@@ -7,8 +7,8 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="Books Rooms">51b42a5d4f90560023bf3879b110c7e7</menu>
-        <name>Books Rooms</name>
+        <menu display_value="Book rooms admin">46a5fd324f66da0023bf3879b110c7d2</menu>
+        <name>Book Rooms</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking/>
@@ -23,9 +23,9 @@
         <sys_created_by>surya</sys_created_by>
         <sys_created_on>2015-12-12 09:08:06</sys_created_on>
         <sys_id>1db4a25d4f90560023bf3879b110c725</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>surya</sys_updated_by>
-        <sys_updated_on>2015-12-12 09:08:51</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>surya.nair</sys_updated_by>
+        <sys_updated_on>2017-05-12 08:12:40</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_7724_books_rooms.user" name="x_7724_books_rooms.user">95b42a5d4f90560023bf3879b110c7e7</user_role>

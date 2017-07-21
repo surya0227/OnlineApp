@@ -34,6 +34,7 @@
    //This function will be automatically called when this rule is processed.
    gs.addInfoMessage('The Conference room ' +current.conference_room.name+' cannot support '+ current.attendees+' attendies. The Maximum capacity is ' +current.conference_room.capacity+ '.');
 	current.setAbortAction(true);
+	//***Test V1***//
 }]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>surya</sys_created_by>
@@ -42,16 +43,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>68c4fa914fd0560023bf3879b110c724</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Validate Room request</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Books Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
+        <sys_package display_value="Book Rooms" source="x_7724_books_rooms">1db4a25d4f90560023bf3879b110c725</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Books Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
+        <sys_scope display_value="Book Rooms">1db4a25d4f90560023bf3879b110c725</sys_scope>
         <sys_update_name>sys_script_68c4fa914fd0560023bf3879b110c724</sys_update_name>
-        <sys_updated_by>surya</sys_updated_by>
-        <sys_updated_on>2015-12-12 10:42:03</sys_updated_on>
+        <sys_updated_by>surya.nair</sys_updated_by>
+        <sys_updated_on>2017-07-21 08:42:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
